@@ -1,2 +1,2 @@
-# Car-Object-Detection
-Implementation of a car detection model using YOLOv8.
+# Traffic-problems-using-YOLOv8
+Implementation of some traffuic related detection models using YOLOv8.
